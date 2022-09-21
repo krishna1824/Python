@@ -44,4 +44,18 @@ DAY-3,Program1-Stack trading
 
 DAY-3,Program2-Permitation
 
+DAY-3,Program3
 
+DAY-3,Program4
+
+DAY-3,Program5
+
+DAY-3,Program6
+
+DAY-3,Program7
+
+DAY-3,Program8
+
+DAY-3,Program9
+
+DAY-3,Program10
